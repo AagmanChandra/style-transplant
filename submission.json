@@ -1,0 +1,8 @@
+{
+  "prompt": "Soviet Constructivist propaganda poster from 1925, depicting gradient descent as a heroic red arrow piercing diagonally downward through a black geometric loss landscape made of sharp angular mountain silhouettes. Each angular peak represents a local minimum. The lowest point — the global minimum — is marked by a bold red five-pointed star. Pure geometric composition: diagonal axis at 45 degrees, concentric circles radiating from the optimal point, bold triangular forms. Strictly limited palette: flat red, flat black, flat white, no mid-tones, no gradients, no shading. Bold Constructivist block lettering integrated into composition reading GRADIENT and DESCENT in all caps. Flat silhouettes only, absolute figure-ground contrast, lithograph print texture. Rodchenko and Lissitzky compositional style. No photography, no organic forms, no curves, no more than three colors, no gradients.",
+  "model": "DALL-E 3 via ChatGPT",
+  "concept": "gradient descent",
+  "tradition_name": "Soviet Constructivist poster",
+  "tradition_period": "1920s–1930s",
+  "tradition_approach": "Rodchenko-style 45-degree diagonal axis, absolute red-black-white palette, flat geometric silhouettes, integrated block typography, concentric circles at global minimum, zero mid-tones or organic forms."
+}
